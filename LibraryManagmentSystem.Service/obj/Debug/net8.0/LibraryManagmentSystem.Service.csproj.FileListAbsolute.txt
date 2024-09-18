@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\bin\Debug\net8.0\LibraryManagmentSystem.Service.deps.json
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\bin\Debug\net8.0\LibraryManagmentSystem.Service.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\bin\Debug\net8.0\LibraryManagmentSystem.Service.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\bin\Debug\net8.0\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\bin\Debug\net8.0\LibraryManagmentSystem.Core.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryM.54F9EC2B.Up2Date
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\refint\LibraryManagmentSystem.Service.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\LibraryManagmentSystem.Service.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Service\obj\Debug\net8.0\ref\LibraryManagmentSystem.Service.dll

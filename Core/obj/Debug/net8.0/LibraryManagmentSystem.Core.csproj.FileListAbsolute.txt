@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\bin\Debug\net8.0\LibraryManagmentSystem.Core.deps.json
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\bin\Debug\net8.0\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\bin\Debug\net8.0\LibraryManagmentSystem.Core.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\refint\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\ref\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\Core\obj\Debug\net8.0\LibraryManagmentSystem.Core.csproj.AssemblyReference.cache

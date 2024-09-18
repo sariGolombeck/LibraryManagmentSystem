@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Data.deps.json
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Data.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Data.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Core.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Core.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryM.12B7C136.Up2Date
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\refint\LibraryManagmentSystem.Data.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\ref\LibraryManagmentSystem.Data.dll
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\bin\Debug\net8.0\LibraryManagmentSystem.Data.runtimeconfig.json
+C:\Users\User\source\repos\LibraryManagmentSystem\LibraryManagmentSystem.Data\obj\Debug\net8.0\LibraryManagmentSystem.Data.genruntimeconfig.cache
